@@ -9,11 +9,17 @@ Utilize matplotlib and seaborn for visualizing stock prices along with moving av
 This project was inspired by Denis Niraj, whose work in the field of finance and data analysis motivated me to explore stock market analysis.
 ## Key Features
 Download and preprocess stock price data.
+
 Implement various types of moving averages (Simple, Exponential).
+
 Create visualizations that highlight stock performance and moving averages over time.
+
 Interactive plots that allow users to explore data dynamically.
 ## Technologies Used
 Python
+
 Pandas
+
 Matplotlib
+
 Seaborn
