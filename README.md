@@ -25,3 +25,14 @@ yfinance
 Matplotlib
 
 Seaborn
+
+## Snapshots
+
+### 1. Stock Analysis
+![Screenshot 2024-10-08 163406](https://github.com/user-attachments/assets/affb359e-3594-40ed-99b8-20914e811cd7)
+
+### 2. Moving Average Analysis
+
+![Screenshot 2024-10-08 163415](https://github.com/user-attachments/assets/92941fc3-c5f4-4fb4-8456-71b1483dcc71)
+
+
